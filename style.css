@@ -1,0 +1,31 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+}
+.container-div{
+    text-align: center;
+    display: inline-block;
+    background: red;
+    margin: 50px 50px 50px 50px;
+    width: 250px;
+    height: 250px;
+    color: yellow;
+    border: 15px ridge tomato;
+    
+}
+
+.container-div:nth-child(1){
+   
+    background: blueviolet;
+    
+}
+
+
+.container-div__p{
+    
+    color: blue;
+    font-size: 20px;
+    
+}
